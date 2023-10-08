@@ -2,12 +2,6 @@
     filter: brightness(50%);
 }
 
-.btn-primary {
-    padding: .5px 3px;
-    font-size: 1.3ch;
-    font-weight: bold;
-}
-
 .card {
     width: 18rem;
     margin-bottom: 1rem;
