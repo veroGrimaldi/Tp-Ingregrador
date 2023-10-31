@@ -16,7 +16,7 @@
   })()
 
 function calcTotal() {
-    const precio=1000
+    const precio=200
     console.log("calctotal")
 
     let cant=document.getElementById("cant").value
