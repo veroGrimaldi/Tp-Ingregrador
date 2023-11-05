@@ -1,10 +1,15 @@
-.brillo {
-    filter: brightness(50%);
+html {
+    height: 100%;
 }
 
-.card {
-    width: 18rem;
-    margin-bottom: 1rem;
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.brillo {
+    filter: brightness(50%);
 }
 
 .card-text {
@@ -20,6 +25,12 @@
     border: none;
 }
 
+.box-font{
+    font-size: smaller;
+    color: gray;
+}
+
 footer {
     background-color: rgb(29, 57, 71);
+    margin-top: auto;
 }
